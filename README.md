@@ -1,2 +1,2 @@
 # Marketing-Analytics-I
-Repository for Marketing Analytics I Group Project
+Collaborators: Ethan Wong, Timmy Ren, Neha Boinapalli, Michael Crosson, Andy Ma
